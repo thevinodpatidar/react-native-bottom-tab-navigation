@@ -1,4 +1,4 @@
-# React-Native Stack Navigation Boilerplate
+# React-Native Bottom Tab Navigation Boilerplate
 
 # Getting Started with React-Native
 
